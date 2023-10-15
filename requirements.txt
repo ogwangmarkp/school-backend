@@ -1,0 +1,5 @@
+asgiref
+Django
+django-filter
+djangorestframework
+python-decouple
